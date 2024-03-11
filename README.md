@@ -25,4 +25,9 @@ This documentation provides detailed information about the endpoints, parameters
 
 ## Access Swagger Documentation
 
-To access the Swagger documentation for Project Management System API, simply click [here](http://localhost:8080/swagger-ui/index.html). 
+To access the Swagger documentation for Project Management System API,
+simply click [here](http://localhost:8080/swagger-ui/index.html). or , 
+manualy type 
+ ```bash
+http://localhost:8080/swagger-ui/index.html
+
