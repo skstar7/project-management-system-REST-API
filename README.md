@@ -6,8 +6,7 @@ This API provides endpoints to manage projects within a project management syste
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/project-management-system.git
-
+   git clone https://github.com/skstar7/project-management-system-REST-API.git
 2 . **Open the project in any IDE (eclipse) workspace**
 3 . **Import the project**
   File --> Import --> Search for (Existing Maven Project) --> Browes the path -->Finish
